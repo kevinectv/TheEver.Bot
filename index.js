@@ -259,4 +259,4 @@ function play(guild, song) {
     });
 }
 
-bot.login(TOKEN);
+bot.login(process.env.token);
