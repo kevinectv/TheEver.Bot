@@ -1,0 +1,1 @@
+worker: mode index.js
